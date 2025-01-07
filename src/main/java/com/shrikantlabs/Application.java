@@ -12,5 +12,9 @@ public class Application {
 		//changes for ECOM-333
 		int a=10;
 	}
+	//ECOM-233 code changes
+	public void doProcess(){
+		System.out.println("This is doProcess() application");
+	}
 
 }
